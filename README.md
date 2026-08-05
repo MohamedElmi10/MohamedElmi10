@@ -34,7 +34,7 @@ React · Next.js · TypeScript · Tailwind · MongoDB · Azure AI Foundry
 
 ## Currently
 
-Studying for Microsoft AI-103. Building CodeLab as the vehicle — every concept I learn gets shipped as a feature. Based in Sweden, open to remote.
+Studying for Microsoft AI-103. Building **[AI-Arena](https://github.com/MohamedElmi10/AI-Arena-platform)**  as the vehicle — every concept I learn gets shipped as a feature. Based in Sweden, open to remote.
 
 ---
 
