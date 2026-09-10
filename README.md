@@ -1,40 +1,34 @@
 # Mohamed Elmi
 
-Frontend engineer building AI-integrated products. Pursuing Microsoft **AI-103 (Azure AI Engineer Associate)**. Open to AI engineer and frontend + AI roles.
+AI engineer with a frontend background, building AI-integrated products on Azure. Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103). Open to AI engineer, frontend and applied-AI roles.
 
 ---
 
 ## Featured
 
-**[AI-Arena](https://github.com/MohamedElmi10/AI-Arena-platform)** — Public portfolio for my Azure AI work. Built in Next.js to showcase what I can do with Azure AI Foundry: agents, RAG, tools, safety, deployment, monitoring.
+[AI-Arena](https://aiarena-mohamed-elmi.netlify.app) — Public portfolio for my Azure AI work. 11 live, interactive demos across agents, language, speech and vision/document AI, each a real Azure AI Foundry agent or gen-AI feature you can use in the browser. Next.js, keyless auth, cost-safety layer.
 
 ---
 
 ## What I'm building
 
-### Shipping
-
-- **CodeLab** *(`fullstack-trainer`)* — Next.js 15 study app that drills fullstack development and AI-103 prep. Ships with an in-app **Mentor** — an Azure AI Foundry agent that answers questions in context. A scheduled task generates fresh practice drills from new course topics.
-
-- **Brookline Professional Trainers** — Marketing + lead-capture site for a teacher-training institution in Nairobi, Kenya. Next.js, mobile-first, WhatsApp contact, web3forms integration.
 
 ### MVPs in active build
 
 - **Skola-Incident** — GDPR-compliant incident reporting app for Swedish schools. Four-role auth (staff, mentor, rektor, admin), Swedish UI. Next.js 16, TypeScript, MongoDB, NextAuth v5, Resend. V1 complete.
-
-- **Geo** — Field investigation tool for Swedish geotechnicians. End-to-end: project setup, area mapping, sounding data capture, graph generation, SND export for GeoSuite.
+- **GeoFlow** — Web platform for Swedish geotechnical consultancies. Ingests field survey data, lets field techs, geotechnicians and project leads work in one project, and assembles a MUR (Markteknisk undersökningsrapport). Reads SGF rig files and lab-report PDFs (Azure Document Intelligence), maps survey points (ArcGIS), and keeps every figure bound to its source.
 
 ---
 
 ## Stack
 
-React · Next.js · TypeScript · Tailwind · MongoDB · Azure AI Foundry
+React · Next.js · TypeScript · Tailwind · MongoDB · Azure AI Foundry · Azure AI Search · Document Intelligence · ArcGIS
 
 ---
 
 ## Currently
 
-Studying for Microsoft AI-103. Building **[AI-Arena](https://github.com/MohamedElmi10/AI-Arena-platform)**  as the vehicle — every concept I learn gets shipped as a feature. Based in Sweden, open to remote.
+AI-103 done. Building [AI-Arena](https://aiarena-mohamed-elmi.netlify.app) as the vehicle — every concept I learn gets shipped as a feature. Based in Sweden, open to remote.
 
 ---
 
