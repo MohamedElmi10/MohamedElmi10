@@ -1,6 +1,6 @@
 # Mohamed Elmi
 
-AI engineer with a frontend background, building AI-integrated products on Azure. Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103). Open to AI engineer, frontend and applied-AI roles.
+AI Developer with a frontend background, building AI-integrated products on Azure. Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103). Open to AI engineer, frontend and applied-AI roles.
 
 ---
 
